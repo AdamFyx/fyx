@@ -12,4 +12,7 @@ public class AdamTest {
     public int calculation(int number){
         return  number*2;
     }
+    public int calculation2(int number){
+        return  number*2;
+    }
 }
